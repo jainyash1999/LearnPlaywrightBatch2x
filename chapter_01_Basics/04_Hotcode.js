@@ -7,3 +7,4 @@ for(let i=0 ; i<10000;i++){
     result=add(i,i+1);
 }
 console.log("after 10000 calls:",result);
+console.log("this is a hot code");
