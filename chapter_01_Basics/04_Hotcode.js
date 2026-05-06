@@ -8,3 +8,4 @@ for(let i=0 ; i<10000;i++){
 }
 console.log("after 10000 calls:",result);
 console.log("this is a hot code");
+console.log("this is a hot code 11");
