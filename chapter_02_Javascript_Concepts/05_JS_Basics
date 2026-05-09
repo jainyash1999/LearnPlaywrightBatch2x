@@ -1,0 +1,11 @@
+var value =10;
+console.log(value);
+value =12;
+console.log(value);
+
+// var - keyword
+// value - identifier - variable name
+// = - operator
+// 10 - Literal - variable value
+// ; - end of statement or line terminator
+// A keyword cannot be use as a identifier or not allowed
