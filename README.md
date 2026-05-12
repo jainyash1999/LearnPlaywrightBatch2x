@@ -25,6 +25,18 @@ Focuses on the rules for creating variables, commenting code, and developer prod
 * `09_VSCode_Shortcuts.md`: A comprehensive guide to essential Visual Studio Code keyboard shortcuts to boost productivity.
 * `Identifier_Rules_Examples.js`: Consolidated file with all valid/invalid identifier examples and best practices.
 
+### `chapter_04_Javascript_Concepts`
+Explores variables and functions, focusing on variable declarations and scoping.
+* `09_var_let_const.js`: Introduction to var, let, and const.
+* `10_function.js`: Basic function syntax and usage.
+* `11_var_explained.js`: Detailed explanation of `var` behavior.
+* `12_let_explianed.js`: Detailed explanation of `let` behavior.
+* `13_const_explianed.js`: Detailed explanation of `const` behavior.
+* `14_var_functionscope.js`: Demonstration of function scope with `var`.
+* `15_let_blockscope.js`: Demonstration of block scope with `let`.
+* `16_hoisting.js`: Variable hoisting in JavaScript.
+* `17_hoisting_fn.js`: Function hoisting in JavaScript.
+
 ## 🚀 Getting Started
 
 To explore the examples, you can navigate to the respective chapter folders and execute the JavaScript files using Node.js. For example:
