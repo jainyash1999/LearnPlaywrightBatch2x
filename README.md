@@ -36,6 +36,21 @@ Explores variables and functions, focusing on variable declarations and scoping.
 * `15_let_blockscope.js`: Demonstration of block scope with `let`.
 * `16_hoisting.js`: Variable hoisting in JavaScript.
 * `17_hoisting_fn.js`: Function hoisting in JavaScript.
+* `18_let_hoisting.js`: Explanation of Temporal Dead Zone (TDZ) with `let`.
+* `19_let_hoisting_block.js`: Block scoping and TDZ behavior with `let`.
+* `20_const_hoisting.js`: Hoisting and TDZ behavior with `const`.
+* `21_TDZ_scenario.js`: Real-world scenario demonstrating Temporal Dead Zone errors.
+
+### `chapter_05_Literals`
+Focuses on different types of literals in JavaScript.
+* `22_Literals.js`: Introduction to basic literal types (String, Boolean, Number, Null, Undefined).
+* `23_null_undeifned.js`: Detailed comparison between `null` and `undefined`.
+* `24_null.js`: Practical use-cases for the `null` literal.
+* `25_number_literal.js`: Basic number literals representation.
+* `26_Literal_Number_all.js`: Comprehensive guide to all supported numeric types and notations.
+* `27_String.js`: Overview of single and double quote string literals.
+* `28_Template_Literal.js`: Usage and practical examples of template literals.
+* `29_Backtick_single_double.js`: Detailed differences between single quotes, double quotes, and backticks.
 
 ## 🚀 Getting Started
 
