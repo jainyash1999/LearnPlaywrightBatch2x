@@ -52,6 +52,20 @@ Focuses on different types of literals in JavaScript.
 * `28_Template_Literal.js`: Usage and practical examples of template literals.
 * `29_Backtick_single_double.js`: Detailed differences between single quotes, double quotes, and backticks.
 
+### `chapter_06_Operators`
+Covers various JavaScript operators and their usage.
+* `30_Opesrtors.js`: Introduction to assignment operators.
+* `31_Arithmetic_Op.js`: Examples of basic arithmetic operators.
+* `32_Modulus_Op.js`: Detailed look at the modulus operator.
+* `33_Exponential_Op.js`: Examples of the exponential operator.
+* `34_Compound_Op.js`: Demonstration of compound assignment operators.
+* `35_Comparison_Op.js`: Introduction to comparison operators.
+* `36_Comp_Strict_vs_loose.js`: Differences between strict and loose comparison.
+* `37_IQ_Strict_Loose.js`: Tricky interview questions on comparisons.
+* `38_Confusing_Comparison.js`: Detailed examples of confusing comparisons in JS.
+* `39_Logical_Op.js`: Logical operators (AND, OR, NOT).
+* `40_String_Concat.js`: Examples of string concatenation.
+
 ## 🚀 Getting Started
 
 To explore the examples, you can navigate to the respective chapter folders and execute the JavaScript files using Node.js. For example:
