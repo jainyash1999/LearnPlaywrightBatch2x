@@ -65,6 +65,13 @@ Covers various JavaScript operators and their usage.
 * `38_Confusing_Comparison.js`: Detailed examples of confusing comparisons in JS.
 * `39_Logical_Op.js`: Logical operators (AND, OR, NOT).
 * `40_String_Concat.js`: Examples of string concatenation.
+* `41_Ternary_Op.js`: Examples of ternary operators including nested conditions.
+* `42_TypeOf_Op.js`: Using the `typeof` operator to check data types.
+* `43_Null_Op.js`: Examples of the Nullish Coalescing operator (`??`).
+* `44_Incre_Decre.js`: Pre-increment and pre-decrement operators.
+* `45_Post_Incre.js`: Post-increment and post-decrement operators.
+* `46_IQ_Incre.js`: Interview questions related to increment operators.
+* `47_Advance_ID.js`: Advanced examples combining various increment and decrement operators.
 
 ## 🚀 Getting Started
 
