@@ -73,6 +73,20 @@ Covers various JavaScript operators and their usage.
 * `46_IQ_Incre.js`: Interview questions related to increment operators.
 * `47_Advance_ID.js`: Advanced examples combining various increment and decrement operators.
 
+### `chapter_07_If_Else`
+Covers conditional statements using if, else if, and else.
+* `48_If_Else.js` to `59_Task_If_Else.js`: Various examples covering basic if/else, real-world scenarios (like API responses and roles), leap year checks, grading calculators, and interview questions.
+
+### `chapter_08_Switch`
+Explores the switch statement for multiple conditions.
+* `60_Switch.js` to `68_IQ4.js`: Examples demonstrating basic switch syntax, handling missing breaks, defaults, grouped cases, real-time API scenarios, and tricky interview questions.
+
+### `chapter_09_User_Input`
+Focuses on capturing user input in different environments.
+* `69_User_Input.js`: Using `prompt()` in browser environments.
+* `70_Node_Readline.js`: Capturing input in Node.js using the native `readline` module.
+* `71_Prompt_Sync.js`: Capturing synchronous input in Node.js using the `prompt-sync` library.
+
 ## 🚀 Getting Started
 
 To explore the examples, you can navigate to the respective chapter folders and execute the JavaScript files using Node.js. For example:
