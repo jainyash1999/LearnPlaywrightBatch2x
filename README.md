@@ -87,6 +87,20 @@ Focuses on capturing user input in different environments.
 * `70_Node_Readline.js`: Capturing input in Node.js using the native `readline` module.
 * `71_Prompt_Sync.js`: Capturing synchronous input in Node.js using the `prompt-sync` library.
 
+### `chapter_10_Loops`
+Explores different types of loops in JavaScript (`for`, `while`, `do-while`) and common interview questions.
+* `72_For_Loop.js`: Introduction to the `for` loop.
+* `73_For_Loop1.js`: Additional examples of `for` loop conditions.
+* `74_IQ.js`: Interview questions covering infinite `for` loops.
+* `75_For_of_in_each.js`: Note on `for...of` and `for...in` loops to be covered with arrays.
+* `76_While.js`: Introduction to the `while` loop.
+* `77_Do_While.js`: Introduction to the `do-while` loop.
+* `78_Do_While.js`: Practical example of a `do-while` loop with a retry mechanism.
+* `79_IQ.js`: Interview questions related to `while` loops.
+* `80_IQ.js`: Interview questions related to `do-while` loops.
+* `81_IQ.js`: Interview questions with loop control statements (`continue`).
+* `82_IQ.js`: Interview questions demonstrating zero-execution loops and infinite `do-while` loops.
+
 ## 🚀 Getting Started
 
 To explore the examples, you can navigate to the respective chapter folders and execute the JavaScript files using Node.js. For example:
