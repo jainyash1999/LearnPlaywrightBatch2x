@@ -22,7 +22,7 @@ Focuses on the rules for creating variables, commenting code, and developer prod
 * `06_Identifier_Rules.js`: Basic rules for valid JavaScript identifiers.
 * `07_Identifier_Rules2.js`: Further examples and edge cases for naming identifiers.
 * `08_Comments.js`: Examples of single-line and multi-line comments in JS.
-* `09_VSCode_Shortcuts.md`: A comprehensive guide to essential Visual Studio Code keyboard shortcuts to boost productivity.
+* `VSCode_Shortcuts.md`: A comprehensive guide to essential Visual Studio Code keyboard shortcuts to boost productivity.
 * `Identifier_Rules_Examples.js`: Consolidated file with all valid/invalid identifier examples and best practices.
 
 ### `chapter_04_Javascript_Concepts`
@@ -100,6 +100,37 @@ Explores different types of loops in JavaScript (`for`, `while`, `do-while`) and
 * `80_IQ.js`: Interview questions related to `do-while` loops.
 * `81_IQ.js`: Interview questions with loop control statements (`continue`).
 * `82_IQ.js`: Interview questions demonstrating zero-execution loops and infinite `do-while` loops.
+* `83_Task.js`: Practice tasks involving loops.
+
+### `chapter_11_Arrays`
+Focuses on array manipulation, searching, sorting, and transformation.
+* `84_Arrays.js`, `85_Arrays.js`: Introduction and declaration.
+* `86_Access_arrays.js`: Accessing and modifying elements.
+* `87_Arrays_Add_Remove.js`, `88_Arrays_Add_Remove2.js`: Adding/removing elements (`push`, `pop`, `shift`, `unshift`, `splice`).
+* `89_Real_Example.js`: Real-world array scenarios.
+* `90_Searching.js`: Finding elements (`indexOf`, `includes`, `find`).
+* `91_iterateArray.js`: Iterating through arrays (`forEach`).
+* `92_transform.js`: Transforming arrays (`map`, `filter`, `reduce`).
+* `93_Array_Sort.js`: Sorting and reversing.
+* `94_Array_Slicing.js`: Extracting portions (`slice`).
+* `95_Array_Concat.js`: Merging arrays.
+* `96_Array_Checking.js`: Validating if an object is an array.
+
+### `chapter_12_Functions`
+Deep dive into different types of functions, scope, closures, and advanced concepts.
+* `97_Function.js` to `101_Type4_Fn_With_Param_With_Return.js`: Basic function definitions, parameters, and return types.
+* `102_Template_literal.js`: Functions with template literals.
+* `103_Fn_Expression.js`: Anonymous functions and function expressions.
+* `104_Arrow_Function.js`, `105_Arrow_Fn_Real.js`: ES6 Arrow function syntax and real-world usage.
+* `106_IIFE.js`: Immediately Invoked Function Expressions.
+* `107_Default_Param_Fn.js`: Default parameters.
+* `108_IQ.js`, `110_IQ.js`, `113_IQ.js`: Interview questions on functions.
+* `109_Res_Parm_Fn.js`: Rest parameters.
+* `111_Spread_IQ.js`: Spread operator in functions.
+* `112_Scope_Fn.js`: Global vs Local scope.
+* `114_Closure_Fn.js` to `116_Api_Real_Closure.js`: Detailed explanation of closures with real-world examples.
+* `117_HighOrder_fn.js`: Introduction to High-Order Functions.
+* `118_Pure_Function.js`: Concept of Pure Functions.
 
 ## 🚀 Getting Started
 
