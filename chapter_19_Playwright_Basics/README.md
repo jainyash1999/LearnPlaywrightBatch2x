@@ -13,3 +13,9 @@ To install the dependencies, run:
 To execute your Playwright tests, run:
 
     npx playwright test
+
+## Viewing Reports
+
+To view the HTML report generated after running your tests, execute:
+
+    npx playwright show-report
