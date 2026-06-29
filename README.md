@@ -132,6 +132,107 @@ Deep dive into different types of functions, scope, closures, and advanced conce
 * `117_HighOrder_fn.js`: Introduction to High-Order Functions.
 * `118_Pure_Function.js`: Concept of Pure Functions.
 
+### `chapter_13_Strings`
+This chapter covers string manipulation and properties.
+* `119_Strings.js`
+* `120_String_Properties.js`
+* `121_String_Check_Search.js`
+* `122_Substring.js`
+* `123_String_Transform.js`
+* `124_String_Conversion.js`
+* `125_Palindrome.js`
+* `126_Anagram.js`
+* `javascript_stringcheatsheet.md`
+
+### `chapter_14_Objects`
+This chapter explores objects in JavaScript.
+* `127_Object.js`
+* `128_Objects.js`
+* `129_Object_Real_Example.js`
+* `130_Primitive_Ref.js`
+* `131_Obj_Example.js`
+* `132_IQ.js`
+* `133_Obj_Fn.js`
+* `134_Obj_Deconstruction.js`
+* `135_Spread.js`
+* `136_Get_Set_Method.js`
+* `137_IQ.js`
+* `138_Obj_Real.js`
+* `139_Let_Const_Obj.js`
+
+### `chapter_15_2D_Array`
+This chapter covers 2D arrays.
+* `140_2D_Array.js`
+* `141_2d_example.js`
+* `142_Real.js`
+* `143_2D_ArrayFn.js`
+* `144_IQ_Right_Triangle_Pyramid.js`
+* `145_IQ_Reverse_Right Triangle_Pyramid.js`
+* `146_IQ_PyramidPattern.js`
+
+### `chapter_16_Callback`
+This chapter explains callbacks in JavaScript.
+* `147_Callback.js`
+* `148_CB.js`
+* `149_CB_Fn.js`
+* `150_PW_CB.js`
+* `151_Async_CB.js`
+* `152_Sync_CB.js`
+* `153_CB_Hell.js`
+* `154_CB_Hell_24_Steps.js`
+* `155_CB_parameter.js`
+* `156_CB_Return.js`
+
+### `chapter_17_Promise`
+This chapter covers JavaScript Promises.
+* `157_Promise.js`
+* `158_Promise_Real_Api.js`
+* `159_Promise_Real_Api_Part-2.js`
+* `160_Finally.js`
+* `161_CB_Pyramid_Problem_Resolve.js`
+* `162_Promise_All.js`
+* `163_IQ_Promise.js`
+
+### `chapter_18_Async_Await`
+This chapter covers async/await syntax.
+* `164_Async.js`
+* `165_Async_P2.js`
+* `166_PyramidofHell_Aysnc_Await_Solution.js`
+* `167_Async_Example.js`
+* `168_AA_Sequential.js`
+* `169_AA_Parallel.js`
+* `170_IQ.js`
+* `171_AC_Login.js`
+
+### `chapter_19_Playwright_Basics`
+This chapter covers the basics of Playwright.
+* `.gitignore`
+* `package.json`
+* `package-lock.json`
+* `playwright.config.ts`
+* `tests/`
+* `playwright-report/`
+* `node_modules/`
+
+### `chapter_20_OOPs_Basics`
+This chapter covers the basics of Object-Oriented Programming.
+* `logger.js`
+* `testutils.js`
+* `utils.js`
+* `01_IMPORT_EXPORT/`
+
+### `chapter_21_Classes_and_Objects`
+This chapter covers classes and objects.
+* `175_Class_Objects.js`
+* `176_Class_Objects2.js`
+* `177_Car.js`
+* `178_Real_Browser.js`
+* `179_IQ.js`
+* `180_Private_Public.js`
+* `181_Static.js`
+* `Task1.js`
+* `Task2.js`
+
 ## 🚀 Getting Started
 
 To explore the examples, you can navigate to the respective chapter folders and execute the JavaScript files using Node.js. For example:
