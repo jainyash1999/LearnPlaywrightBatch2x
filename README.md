@@ -196,42 +196,77 @@ This chapter covers JavaScript Promises.
 ### `chapter_18_Async_Await`
 This chapter covers async/await syntax.
 * `164_Async.js`
-* `165_Async_P2.js`
-* `166_PyramidofHell_Aysnc_Await_Solution.js`
-* `167_Async_Example.js`
-* `168_AA_Sequential.js`
-* `169_AA_Parallel.js`
-* `170_IQ.js`
-* `171_AC_Login.js`
 
 ### `chapter_19_Playwright_Basics`
 This chapter covers the basics of Playwright.
-* `.gitignore`
-* `package.json`
-* `package-lock.json`
-* `playwright.config.ts`
-* `tests/`
-* `playwright-report/`
-* `node_modules/`
 
 ### `chapter_20_OOPs_Basics`
 This chapter covers the basics of Object-Oriented Programming.
+* `01_IMPORT_EXPORT/`
+* `02_Classes_and_Objects/`
+* `03_Encapsulation/`
+* `04_Inheritance/`
+* `05_Polymorphism/`
+* `Interview_Questions/`
 * `logger.js`
 * `testutils.js`
 * `utils.js`
-* `01_IMPORT_EXPORT/`
 
-### `chapter_21_Classes_and_Objects`
-This chapter covers classes and objects.
-* `175_Class_Objects.js`
-* `176_Class_Objects2.js`
-* `177_Car.js`
-* `178_Real_Browser.js`
-* `179_IQ.js`
-* `180_Private_Public.js`
-* `181_Static.js`
-* `Task1.js`
-* `Task2.js`
+### `chapter_21_Typescript`
+This chapter covers the basics of Typescript.
+* `194_TS.js`
+* `195_HelloWorld.js`
+* `195_HelloWorld.ts`
+* `196_TS_Part1.ts`
+* `196_TS_Part2.ts`
+* `197_TS_Part2.ts`
+* `198_TS_Part3.ts`
+* `199_IQ.ts`
+* `200_IQ.ts`
+
+### `chapter_22_Interface`
+This chapter covers Interfaces in Typescript.
+* `201_Interface.ts`
+* `202_Interface_Part2.ts`
+* `203_Interface_Readonly.ts`
+* `204_Interface_Readonly.ts`
+* `205_Interface.ts`
+* `206_Hooks.ts`
+* `207_BugReport.ts`
+* `208_TestConfig.ts`
+* `209_RealExample.ts`
+* `210_ClassInterface.ts`
+
+### `chapter_23_Enums`
+This chapter covers Enums in Typescript.
+* `211_Enums.ts`
+* `212_Enums_Fn.ts`
+* `213_Enum.ts`
+* `214_Api.ts`
+
+### `chapter_24_Typescript_Generics`
+This chapter covers Generics in Typescript.
+* `215_Generics.ts`
+* `216_Generic_Class.ts`
+* `217_Generic_API_Response.ts`
+
+### `chapter_25_PRIVATE_PUBLIC_PROTECTED`
+This chapter covers access modifiers in Typescript.
+* `218_PPP.ts`
+* `219_PageObjectModel.ts`
+* `220_READONLY.ts`
+* `221_Abstract_Class.ts`
+
+### `chapter_26_Type_Override_Decorators`
+This chapter covers Type Override and Decorators in Typescript.
+* `222_Type_As.ts`
+* `223_Type_Alias_As.ts`
+* `224_Override.ts`
+* `225_IQ.ts`
+* `226_Decorator.ts`
+* `227_Decorato2.ts`
+* `228_MultipleDecorator.ts`
+* `tsconfig.json`
 
 ## 🚀 Getting Started
 
@@ -239,6 +274,11 @@ To explore the examples, you can navigate to the respective chapter folders and 
 
 ```bash
 node chapter_01_Basics/01_basic.js
+```
+
+For TypeScript files, you can use `ts-node`:
+```bash
+npx ts-node chapter_21_Typescript/195_HelloWorld.ts
 ```
 
 Happy learning and coding!
