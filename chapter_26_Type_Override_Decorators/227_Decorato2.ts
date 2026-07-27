@@ -1,7 +1,8 @@
-function logged(originalMethod: any, context: any): any {
-    return function (this: any, ...args: any[]): any {
+function logged(target: any, propertyKey: string, descriptor: PropertyDescriptor) {
+    const originalMethod = descriptor.value;
+    descriptor.value = function (this: any, ...args: any[]): any {
         console.log("called decorator");
-        return originalMethod.call(this, ...args);
+        return originalMethod.apply(this, args);
     };
 }
 
